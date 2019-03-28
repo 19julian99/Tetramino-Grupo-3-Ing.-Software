@@ -8,6 +8,10 @@ iv.Especificaciones de la forma de firma.
 
 
 #Verificacion de diseño inicial.
+
 #Estructura de archivos.
+
 #Estandares de declaracion de variables y metodos.
+
 #Especificaciones de la forma de firma.
+
